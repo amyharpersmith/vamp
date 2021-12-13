@@ -4,7 +4,7 @@
 :root {
     --bgColor:#000;
     --accentColor:#e21da8;
-    --font-family: 'VT323', monospace;
+    --font:'VT323', monospace;
 }
 
 body{
